@@ -6,7 +6,7 @@ This repository contains a comprehensive exploratory data analysis (EDA) of the 
 The primary objective of this analysis is to perform a thorough exploration of the "cardiographic.csv" dataset to gain insights into fetal heart rate patterns, uterine contractions, and other related variables. The analysis involves data cleaning, statistical summaries, visualizations, and pattern recognition.
 
 ### Dataset Overview
-The dataset consists of several variables related to fetal heart rate (FHR) monitoring:
+The dataset consists of several variables related to fetal heart rate (FHR) monitoring
 
 1. LB: Baseline Fetal Heart Rate (FHR)
 2. AC: Accelerations in FHR
